@@ -1,0 +1,5 @@
+pypeta >0.2.0
+jupyter_web_report >0.2.0
+pandas
+numpy
+plotly
